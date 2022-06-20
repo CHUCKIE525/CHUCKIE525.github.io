@@ -1,0 +1,27 @@
+.head-bar > .left > .title:hover {
+  transition-duration: 1s;
+  letter-spacing: 2px;
+}
+
+.head-bar > .left {
+  font-size: 1.6em;
+  padding-left: 50px;
+  color: white;
+}
+
+.head-bar > .right {
+  padding-right: 50px;
+  font-family: 'Open Sans', sans-serif;
+  
+}
+
+.head-bar > .right > .nav a {
+  text-decoration: none;
+  transition: 0.5s;
+  color: white;
+}
+
+.head-bar > .right > .nav a:hover {
+  color: #f6bd60;
+  letter-spacing: 2px;
+}
